@@ -1,0 +1,71 @@
+/*
+*
+* @author Flávio Ribeiro
+* @version 0.1
+* @spotApp 
+*
+*/
+
+
+/*
+-- Estilos CSS - Website da Empresa
+*/
+
+
+
+
+/*
+-- Padrões e Reset
+*/
+
+/*
+-- Tipografia e Cores
+*/
+
+/*
+-- Estrutura
+*/
+
+/*
+-- Estrutura Barra de Navegação
+*/
+
+.img-logo{
+    height: 40px;
+    width: 132px;
+    display: block;
+    background: url('imagens/spotify.svg') no-repeat;
+    background-size: contain;
+    color: transparent;
+}
+
+nav.navbar-transparente {
+
+    padding: 15px 0px;
+    background: rgba(0,0,0,0.6);
+    border: none;
+
+
+}
+
+.navbar-brand {
+    padding: 0px ;
+}
+
+
+
+/*
+-- Estilos específicos de Seção
+*/
+
+/*
+-- Formulários
+*/
+
+/*
+-- Tabelas
+*/
+
+/*
+-- Classes de Uso Geral
+*/
